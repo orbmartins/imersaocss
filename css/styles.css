@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Imersao CSS A1 */
+
+body {
+  background: #111;
+  font-family: Arial;
+  color: #fff;
+}
+
+.menu {
+  max-width: 50%;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px;
+}
+
+.menu li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: underline;
+  font-weight: 500; 
+  font-style: italic;
+}
+
+.site-title {
+  text-align: center;
+}
+
+.site-subtitle {
+  text-align: center;
+  font-style: italic;
+}
+
+/* END - Imersao CSS A1 */
